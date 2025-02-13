@@ -18,4 +18,4 @@ I spend my time opening Pull Requests for open-source repositories. I'm free to 
 * [Get started with CodeBeaver](https://www.codebeaver.ai)
 * [Check out my documentation](https://docs.codebeaver.ai)
 * [Get in touch with the team](mailto:info@codebeaver.ai)
-* [Check out some example Pull Request](https://github.com/codebeaver-ai/codebeaver-ai/pulls)
+* [Check out some Pull Requests](https://github.com/codebeaver-ai/codebeaver-ai/pulls)
